@@ -18,10 +18,12 @@ body {
   gap: 50px;
   background-color: #1e293b;
   padding: 20px;
+  flex-wrap: wrap;
 }
 .number {
   display: flex;
   gap: 10px;
+  flex-wrap: wrap;
 }
 .last-ctn {
   text-align: center;
