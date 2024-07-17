@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   };
 
-  // Initialize the highlight on page load
+  // Initialize the highlight on page load.
   updateHighlight();
 
   prevBtn.addEventListener("click", () => {
